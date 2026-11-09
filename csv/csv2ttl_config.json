@@ -1,0 +1,66 @@
+{
+    "id": "BKTStarS",
+    "title": [
+      {
+        "lang": "de",
+        "value": "BKT und StarS"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v32",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "st",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Stimulusformat"
+          }
+        ],
+        "filenameSource": "st_Stimulusformat.csv",
+        "filenameTarget": "st_Stimulusformat.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "at",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Antwortformat"
+          }
+        ],
+        "filenameSource": "at_Antwortformat.csv",
+        "filenameTarget": "at_Antwortformat.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "tt",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Testtyp"
+          }
+        ],
+        "filenameSource": "tt_Testtyp.csv",
+        "filenameTarget": "tt_Testtyp.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+  "name": "iqb-vocabs_v32",
+  "version": "0.1.0",
+  "description": "BKT und StarS",
+  "main": "index.js",
+  "scripts": {
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v32.git"
+  },
+  "author": "IQB",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v32/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v32#readme",
+  "devDependencies": {
+    "@iqb/csv2ttl": "^0.9.0"
+  }
+}

@@ -1,0 +1,41 @@
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix n0: <https://w3id.org/iqb/v32/st/>. 
+
+n0:c9h
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Bild"@de.
+n0:p6a
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Audio"@de.
+n0:d7t
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Text"@de.
+n0:e5z
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Zahl/Formel"@de.
+n0:
+	a skos:ConceptScheme;
+	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
+	dct:title "BKT und StarS - Stimulusformat"@de;
+	dc:title "BKT und StarS - Stimulusformat"@de;
+	dc:description "BKT und StarS - Stimulusformat"@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
+	skos:hasTopConcept
+		n0:c9h,
+		n0:p6a,
+		n0:d7t,
+		n0:e5z.

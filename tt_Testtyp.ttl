@@ -1,0 +1,41 @@
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix n0: <https://w3id.org/iqb/v32/tt/>. 
+
+n0:s5c
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Speedtest"@de.
+n0:z6c
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Powertest"@de.
+n0:h6s
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Gruppentest"@de.
+n0:x4t
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Einzeltest "@de.
+n0:
+	a skos:ConceptScheme;
+	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
+	dct:title "BKT und StarS - Testtyp"@de;
+	dc:title "BKT und StarS - Testtyp"@de;
+	dc:description "BKT und StarS - Testtyp"@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
+	skos:hasTopConcept
+		n0:s5c,
+		n0:z6c,
+		n0:h6s,
+		n0:x4t.

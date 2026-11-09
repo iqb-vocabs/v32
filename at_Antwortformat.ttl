@@ -1,0 +1,104 @@
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix n0: <https://w3id.org/iqb/v32/at/>. 
+
+n0:y7c
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "1 Antwortmöglichkeit"@de.
+n0:b6p
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "2 Antwortmöglichkeiten"@de.
+n0:y7f
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "3 Antwortmöglichkeiten"@de.
+n0:t3y
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "4 Antwortmöglichkeiten"@de.
+n0:e5g
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "5 Antwortmöglichkeiten"@de.
+n0:v9p
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Einfachantwort"@de.
+n0:h6e
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Mehrfachantwort"@de.
+n0:p5v
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Bild"@de.
+n0:f7z
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Audio"@de.
+n0:v2e
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Text"@de.
+n0:z4q
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Zahl/Formel"@de.
+n0:z4t
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Tastatur eingeblendet"@de.
+n0:u5d
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Computertastatur"@de.
+n0:
+	a skos:ConceptScheme;
+	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
+	dct:title "BKT und StarS - Antwortformat"@de;
+	dc:title "BKT und StarS - Antwortformat"@de;
+	dc:description "BKT und StarS - Antwortformat"@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
+	skos:hasTopConcept
+		n0:y7c,
+		n0:b6p,
+		n0:y7f,
+		n0:t3y,
+		n0:e5g,
+		n0:v9p,
+		n0:h6e,
+		n0:p5v,
+		n0:f7z,
+		n0:v2e,
+		n0:z4q,
+		n0:z4t,
+		n0:u5d.
