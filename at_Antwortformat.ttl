@@ -6,81 +6,118 @@
 n0:y7c
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "1.1";
+	skos:broader n0:b5b;
 	skos:prefLabel "1 Antwortmöglichkeit"@de.
 n0:b6p
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "1.2";
+	skos:broader n0:b5b;
 	skos:prefLabel "2 Antwortmöglichkeiten"@de.
 n0:y7f
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "1.3";
+	skos:broader n0:b5b;
 	skos:prefLabel "3 Antwortmöglichkeiten"@de.
 n0:t3y
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "1.4";
+	skos:broader n0:b5b;
 	skos:prefLabel "4 Antwortmöglichkeiten"@de.
 n0:e5g
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "1.5";
+	skos:broader n0:b5b;
 	skos:prefLabel "5 Antwortmöglichkeiten"@de.
+n0:b5b
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "1";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Anzahl Antwortmöglichkeiten"@de;
+	skos:narrower n0:y7c,
+		n0:b6p,
+		n0:y7f,
+		n0:t3y,
+		n0:e5g.
 n0:v9p
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "2.1";
+	skos:broader n0:d5t;
 	skos:prefLabel "Einfachantwort"@de.
 n0:h6e
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "2.2";
+	skos:broader n0:d5t;
 	skos:prefLabel "Mehrfachantwort"@de.
+n0:d5t
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "2";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Einfach -und Mehrfachantwort"@de;
+	skos:narrower n0:v9p,
+		n0:h6e.
 n0:p5v
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "3.1";
+	skos:broader n0:y7r;
 	skos:prefLabel "Bild"@de.
 n0:f7z
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "3.2";
+	skos:broader n0:y7r;
 	skos:prefLabel "Audio"@de.
 n0:v2e
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "3.3";
+	skos:broader n0:y7r;
 	skos:prefLabel "Text"@de.
 n0:z4q
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "3.4";
+	skos:broader n0:y7r;
 	skos:prefLabel "Zahl/Formel"@de.
+n0:y7r
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "3";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Darstellung visuell"@de;
+	skos:narrower n0:p5v,
+		n0:f7z,
+		n0:v2e,
+		n0:z4q.
 n0:z4t
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "4.1";
+	skos:broader n0:b5r;
 	skos:prefLabel "Tastatur eingeblendet"@de.
 n0:u5d
 	a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
+	skos:notation "4.2";
+	skos:broader n0:b5r;
 	skos:prefLabel "Computertastatur"@de.
+n0:b5r
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "4";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Tastatur"@de;
+	skos:narrower n0:z4t,
+		n0:u5d.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -89,16 +126,7 @@ n0:
 	dc:description "BKT und StarS - Antwortformat"@de;
 	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
-		n0:y7c,
-		n0:b6p,
-		n0:y7f,
-		n0:t3y,
-		n0:e5g,
-		n0:v9p,
-		n0:h6e,
-		n0:p5v,
-		n0:f7z,
-		n0:v2e,
-		n0:z4q,
-		n0:z4t,
-		n0:u5d.
+		n0:b5b,
+		n0:d5t,
+		n0:y7r,
+		n0:b5r.
