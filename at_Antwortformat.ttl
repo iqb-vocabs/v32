@@ -61,7 +61,7 @@ n0:d5t
 	skos:inScheme n0:;
 	skos:notation "2";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Einfach -und Mehrfachantwort"@de;
+	skos:prefLabel "Anzahl Antworten"@de;
 	skos:narrower n0:v9p,
 		n0:h6e.
 n0:p5v
@@ -93,7 +93,7 @@ n0:y7r
 	skos:inScheme n0:;
 	skos:notation "3";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Darstellung visuell"@de;
+	skos:prefLabel "Visuelle Darstellung"@de;
 	skos:narrower n0:p5v,
 		n0:f7z,
 		n0:v2e,

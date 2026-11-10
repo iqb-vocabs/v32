@@ -61,6 +61,23 @@
             "value": ""
           }
         ]
+      },
+      {
+        "id": "ap",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Player"
+          }
+        ],
+        "filenameSource": "ap_Player.csv",
+        "filenameTarget": "ap_Player.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
       }
     ]
   }

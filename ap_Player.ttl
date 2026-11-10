@@ -1,0 +1,76 @@
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix n0: <https://w3id.org/iqb/v32/ap/>. 
+
+n0:e2g
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "IQB-Player (Aspect)"@de.
+n0:t6x
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "IQB-Player (Speedtest)"@de.
+n0:a5t
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "IQB-Player für StarS"@de.
+n0:b4t
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "IQB-Player für Lottie Animationen"@de.
+n0:f3u
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "IQB-Player für Skripte (Abi)"@de.
+n0:g2g
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Simple HTML Player"@de.
+n0:e5c
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Tetfolio Player"@de.
+n0:t5f
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Speed-Test-Player"@de.
+n0:s9y
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Verona-Player für Testcenter Systemcheck"@de.
+n0:
+	a skos:ConceptScheme;
+	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
+	dct:title "BKT und StarS - Player"@de;
+	dc:title "BKT und StarS - Player"@de;
+	dc:description "BKT und StarS - Player"@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
+	skos:hasTopConcept
+		n0:e2g,
+		n0:t6x,
+		n0:a5t,
+		n0:b4t,
+		n0:f3u,
+		n0:g2g,
+		n0:e5c,
+		n0:t5f,
+		n0:s9y.
