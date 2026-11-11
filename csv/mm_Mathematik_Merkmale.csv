@@ -1,84 +1,60 @@
 "notation","title","description","id","title_en","description_en","title_fr","description_fr","title_it","description_it","title_rm","description_rm"
-"1","Speedtest","Automatisierung von Routinetätigkeiten","z3c","","","","","","","",""
-"1.1","Addition","","v5t","","","","","","","",""
-"1.1.1","Addition im Zahlenraum bis 100, kein Zehnerübertritt","","r7q","","","","","","","",""
-"1.1.2","Addition im Zahlenraum bis 20, mit Zehnerübertritt","","a2g","","","","","","","",""
-"1.1.3","Addition im Zahlenraum bis 100, mit Zehnerübertritt","","g7e","","","","","","","",""
-"1.1.4","Addition im Zahlenraum bis 1000, kein Übertritt","","r4r","","","","","","","",""
-"1.2","Subtraktion","","p3e","","","","","","","",""
-"1.2.1","Subtraktion im Zahlenraum bis 100, kein Übertritt","","f6t","","","","","","","",""
-"1.2.2","Subtraktion im Zahlenraum bis 20, mit Übertritt","","g6q","","","","","","","",""
-"1.2.3","Subtraktion im Zahlenraum bis 100, mit Übertritt","","b3q","","","","","","","",""
-"1.2.4","Subtraktion im Zahlenraum bis 1000, mit Übertritt","","q2y","","","","","","","",""
-"1.3","Verdoppeln im Zahlenraum bis 100","","z7x","","","","","","","",""
-"1.4","Halbieren im Zahlenraum bis 100","","c4g","","","","","","","",""
-"1.5","Multiplikation","","g2v","","","","","","","",""
-"1.5.1","Multiplikation Kernaufgaben","","a4e","","","","","","","",""
-"1.5.2","Multiplikation Ableitungsaufgaben","","u7r","","","","","","","",""
-"1.6","Division","","y2r","","","","","","","",""
-"1.6.1","Division Kernaufgaben","","g7d","","","","","","","",""
-"1.6.2","Division Ableitungsaufgaben","","v3f","","","","","","","",""
-"1.7","Strukturierte Anzahlerfassung","","x2u","","","","","","","",""
-"1.7.1","Anzahlerfassung am Hunderterpunktefeld","","y5t","","","","","","","",""
-"1.8","Zahlvergleich","","v2e","","","","","","","",""
-"1.8.1","Größenvergleich zwei zweistelliger Zahlen","","r5y","","","","","","","",""
-"1.9","Zahlenfolgen","","r5p","","","","","","","",""
-"1.9.1","Arithmetische Zahlenfolgen erkennen und fortsetzen","","c3y","","","","","","","",""
-"1.10","Musterfolgen","","p2a","","","","","","","",""
-"1.10.1","Geometrische Musterfolgen erkennen und ergänzen","","q3c","","","","","","","",""
-"1.10.2","Geometrische Musterfolgen erkennen und fortsetzen","","b5d","","","","","","","",""
-"1.11","Würfelgebäude","","a2u","","","","","","","",""
-"1.11.1","Anzahlbestimmung Würfel","","a9h","","","","","","","",""
-"1.11.2","Bauplan Zuordnung","","g3r","","","","","","","",""
-"1.12","Achsensymmetrie","","x7u","","","","","","","",""
-"2","Powertest","Verständnis zentraler Konzepte","a9r","","","","","","","",""
-"2.1","Addition","","z4h","","","","","","","",""
-"2.1.1","Addition Grundvorstellung","","a4d","","","","","","","",""
-"2.1.1.1","Addition Grundvorstellung Hinzufügen","","b2u","","","","","","","",""
-"2.1.1.2","Addition Grundvorstellung Zusammenfassen","","h4y","","","","","","","",""
-"2.1.1.3","Addition Grundvorstellung Vergleichen","","z2z","","","","","","","",""
-"2.1.2","Addition Darstellungswechsel","","q6r","","","","","","","",""
-"2.1.2.1","Addition Darstellungswechsel: Symbolisch zu Alltagssituationen","","d4y","","","","","","","",""
-"2.1.2.2","Addition Darstellungswechsel: Symbolisch zu abstrakten Darstellungen","","s2d","","","","","","","",""
-"2.1.2.3","Addition Darstellungswechsel: Zahlenstrahl zu symbolisch","","a7s","","","","","","","",""
-"2.1.3","Addition operativ strukturierte Päckchen","","a3b","","","","","","","",""
-"2.1.4","Addition Rechenwege darstellen","","s6e","","","","","","","",""
-"2.2","Subtraktion","","u7q","","","","","","","",""
-"2.2.1","Subtraktion Grundvorstellung","","g5b","","","","","","","",""
-"2.2.1.1","Subtraktion Grundvorstellung Abziehen","","b6q","","","","","","","",""
-"2.2.1.2","Subtraktion Grundvorstellung Ergänzen","","q2a","","","","","","","",""
-"2.2.2","Subtraktion Darstellungswechsel","","d5x","","","","","","","",""
-"2.2.2.1","Subtraktion Darstellungswechsel: Symbolisch abstrakten Darstellungen","","z2b","","","","","","","",""
-"2.2.2.2","Subtraktion Darstellungswechsel: Symbolisch zu Alltagssituationen","","g5y","","","","","","","",""
-"2.2.2.3","Subtraktion Darstellungswechsel: Zahlenstrahl zu symbolisch","","h2d","","","","","","","",""
-"2.2.3","Subtraktion operativ strukturierte Päckchen","","r4b","","","","","","","",""
-"2.2.4","Subtraktion Rechenwege darstellen","","z9q","","","","","","","",""
-"2.3","Multiplikation","","b3a","","","","","","","",""
-"2.3.1","Multiplikation Grundvorstellung","","q9d","","","","","","","",""
-"2.3.1.1","Räumlich-Simultan","","x9b","","","","","","","",""
-"2.3.1.2","Zeitlich-Sukzessiv","","b3e","","","","","","","",""
-"2.3.1.3","Multiplikativer Vergleich","","t5c","","","","","","","",""
-"2.3.2","Multiplikation am 100er Punktefeld","","r5g","","","","","","","",""
-"2.3.3","Multiplikation Rechengesetze","","e2r","","","","","","","",""
-"2.3.4","Multiplikation Darstellungswechsel","","h5s","","","","","","","",""
-"2.3.4.1","Ikonisch zu symbolisch","","p7h","","","","","","","",""
-"2.4","Division","","h3y","","","","","","","",""
-"2.4.1","Division Grundvorstellung","","r3c","","","","","","","",""
-"2.4.1.1","Aufteilen","","z6e","","","","","","","",""
-"2.4.1.2","Verteilen","","u4v","","","","","","","",""
-"2.4.2","Division Darstellungswechsel","","q7y","","","","","","","",""
-"2.4.2.1","Ikonisch zu symbolisch","","t4y","","","","","","","",""
-"2.5","Stellenwertverständnis","","z4a","","","","","","","",""
-"2.5.1","Stellenwerte mit Ziffernkarten","","z9r","","","","","","","",""
-"2.5.2","Mehrsystemblöcke bündeln","","x6z","","","","","","","",""
-"2.5.3","Zahlen mit Material darstellen","","h7g","","","","","","","",""
-"2.5.4","Entbündeln","","u3c","","","","","","","",""
-"2.5.5","Zahlen im Zahlenraum bis 1000 ordnen","","a2e","","","","","","","",""
-"2.5.6","Zahlen nach Vorgabe bilden (Plättchen in der Stellenwerttafel)","","b3p","","","","","","","",""
-"2.5.7","einen Stellenwert ändern (Plättchen in der Stellenwerttafel)","","x3r","","","","","","","",""
-"2.5.8","Stellenwertverständnis Darstellungswechsel: symbolisch zu Stellenwerttafel, Mehrsystemblöcken und Stufenschrift","","y3q","","","","","","","",""
-"2.6","Zahlverständnis","","z9p","","","","","","","",""
-"2.6.1","Nachbarzehner","","f4d","","","","","","","",""
-"2.6.2","Nachbarhunderter","","s9t","","","","","","","",""
-"2.6.3","Orientierung am 100er Zahlenstrahl","","f5h","","","","","","","",""
-"2.6.4","Orientierung am 1000er Zahlenstrahl","","h2v","","","","","","","",""
+"1","Addition im Zahlenraum bis 100, kein Zehnerübertritt","","b9t","",,,,,,,
+"2","Addition im Zahlenraum bis 20, mit Zehnerübertritt","","x2e","",,,,,,,
+"3","Addition im Zahlenraum bis 100, mit Zehnerübertritt","","e5d","",,,,,,,
+"4","Addition im Zahlenraum bis 1000, kein Übertritt","","r2f","",,,,,,,
+"5","Subtraktion im Zahlenraum bis 100, kein Übertritt","","c5d","",,,,,,,
+"6","Subtraktion im Zahlenraum bis 20, mit Übertritt","","t6q","",,,,,,,
+"7","Subtraktion im Zahlenraum bis 100, mit Übertritt","","v4y","",,,,,,,
+"8","Subtraktion im Zahlenraum bis 1000, mit Übertritt","","g7g","",,,,,,,
+"9","Verdoppeln im Zahlenraum bis 100","","t5s","",,,,,,,
+"10","Halbieren im Zahlenraum bis 100","","q7x","",,,,,,,
+"11","Multiplikation Kernaufgaben","","f9x","",,,,,,,
+"12","Multiplikation Ableitungsaufgaben","","h3d","",,,,,,,
+"13","Division Kernaufgaben","","y5a","",,,,,,,
+"14","Division Ableitungsaufgaben","","p7s","",,,,,,,
+"15","Anzahlerfassung am Hunderterpunktefeld","","u7d","",,,,,,,
+"16","Größenvergleich zwei zweistelliger Zahlen","","g7y","",,,,,,,
+"17","Arithmetische Zahlenfolgen erkennen und fortsetzen","","b5v","",,,,,,,
+"18","Geometrische Musterfolgen erkennen und ergänzen","","c2p","",,,,,,,
+"19","Geometrische Musterfolgen erkennen und fortsetzen","","s2g","",,,,,,,
+"20","Würfelgebäude Anzahlbestimmung Würfel","","y2b","",,,,,,,
+"21","Würfelgebäude Bauplan Zuordnung","","b4h","",,,,,,,
+"22","Achsensymmetrie","","p5y","",,,,,,,
+"23","Addition Grundvorstellung Hinzufügen","","x4c","",,,,,,,
+"24","Addition Grundvorstellung Zusammenfassen","","t3z","",,,,,,,
+"25","Addition Grundvorstellung Vergleichen","","u2f","",,,,,,,
+"26","Addition Darstellungswechsel: Symbolisch zu Alltagssituationen","","c4h","",,,,,,,
+"27","Addition Darstellungswechsel: Symbolisch zu abstrakten Darstellungen","","t3b","",,,,,,,
+"28","Addition Darstellungswechsel: Zahlenstrahl zu symbolisch","","p7f","",,,,,,,
+"29","Addition operativ strukturierte Päckchen","","t7v","",,,,,,,
+"30","Addition Rechenwege darstellen","","p7z","",,,,,,,
+"31","Subtraktion Grundvorstellung Abziehen","","g4s","",,,,,,,
+"32","Subtraktion Grundvorstellung Ergänzen","","q5b","",,,,,,,
+"33","Subtraktion Darstellungswechsel: Symbolisch abstrakten Darstellungen","","q2t","",,,,,,,
+"34","Subtraktion Darstellungswechsel: Symbolisch zu Alltagssituationen","","s5g","",,,,,,,
+"35","Subtraktion operativ strukturierte Päckchen","","g6c","",,,,,,,
+"36","Subtraktion Rechenwege darstellen","","c3q","",,,,,,,
+"37","Subtraktion Darstellungswechsel: Zahlenstrahl zu symbolisch","","z7b","",,,,,,,
+"38","Stellenwertverständnis: Stellenwerte mit Ziffernkarten","","r3x","",,,,,,,
+"39","Stellenwertverständnis: Mehrsystemblöcke bündeln","","d3r","",,,,,,,
+"40","Zahlverständnis: Orientierung am 100er Zahlenstrahl","","a7p","",,,,,,,
+"41","Zahlverständnis: Zahlen mit Material darstellen","","q7u","",,,,,,,
+"42","Multiplikation Grundvorstellung Räumlich-Simultan","","z2q","",,,,,,,
+"43","Multiplikation Grundvorstellung Zeitlich-Sukzessiv","","a7x","",,,,,,,
+"44","Multiplikation Grundvorstellung Multiplikativer Vergleich","","t4g","",,,,,,,
+"45","Multiplikation am 100er Punktefeld","","a9q","",,,,,,,
+"46","Multiplikation Rechengesetze","","d5u","",,,,,,,
+"47","Multiplikation Darstellungswechsel: Ikonisch zu symbolisch","","v4p","",,,,,,,
+"48","Division Grundvorstellung Aufteilen","","p4h","",,,,,,,
+"49","Division Grundvorstellung Verteilen","","z5d","",,,,,,,
+"50","Division Darstellungswechsel: Ikonisch zu symbolisch","","y6e","",,,,,,,
+"51","Stellenwertverständnis Entbündeln","","e6r","",,,,,,,
+"52","Stellenwertverständnis: Zahlen im Zahlenraum bis 1000 ordnen","","y4y","",,,,,,,
+"53","Stellenwertverständnis: Zahlen nach Vorgabe bilden (Plättchen in der Stellenwerttafel)","","b7q","",,,,,,,
+"54","Stellenwertverständnis: Bündeln","","c4d","",,,,,,,
+"55","Stellenwertverständnis: einen Stellenwert ändern (Plättchen in der Stellenwerttafel)","","p6a","",,,,,,,
+"56","Zahlverständnis: Nachbarzehner","","g9c","",,,,,,,
+"57","Zahlverständnis: Nachbarhunderter","","p2d","",,,,,,,
+"58","Zahlverständnis: Orientierung am 1000er Zahlenstrahl","","b4x","",,,,,,,
+"59","Stellenwertverständnis Darstellungswechsel: symbolisch zu Stellenwerttafel, Mehrsystemblöcken und Stufenschrift","","a2t","",,,,,,,

@@ -8,13 +8,13 @@ n0:c4a
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Speedtest"@de.
+	skos:prefLabel "Speedtest / Automatisierung von Routinetätigkeiten"@de.
 n0:y6p
 	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Powertest"@de.
+	skos:prefLabel "Powertest / Verständnis zentraler Konzepte"@de.
 n0:d7p
 	a skos:Concept;
 	skos:inScheme n0:;
