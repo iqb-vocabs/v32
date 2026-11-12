@@ -29,15 +29,15 @@
         ]
       },
       {
-        "id": "at",
+        "id": "am",
         "title": [
           {
             "lang": "de",
-            "value": "Antwortformat"
+            "value": "Anzahl Antwortmöglichkeiten"
           }
         ],
-        "filenameSource": "at_Antwortformat.csv",
-        "filenameTarget": "at_Antwortformat.ttl",
+        "filenameSource": "am_Anzahl_Antwortmoeglichkeiten.csv",
+        "filenameTarget": "am_Anzahl_Antwortmoeglichkeiten.ttl",
         "description": [
           {
             "lang": "de",
@@ -84,11 +84,28 @@
         "title": [
           {
             "lang": "de",
-            "value": "Mathematik Weitere inhaltliche Merkmale"
+            "value": "Mathematik weitere inhaltliche Merkmale"
           }
         ],
         "filenameSource": "mm_Mathematik_Merkmale.csv",
         "filenameTarget": "mm_Mathematik_Merkmale.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "m1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Mathematik weitere inhaltliche Merkmale: Hierarchie "
+          }
+        ],
+        "filenameSource": "mm_Mathematik_Merkmale_1.csv",
+        "filenameTarget": "mm_Mathematik_Merkmale_1.ttl",
         "description": [
           {
             "lang": "de",

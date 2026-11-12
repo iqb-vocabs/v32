@@ -1,0 +1,426 @@
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix n0: <https://w3id.org/iqb/v32/m1/>. 
+
+n0:b9t
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "1";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition im Zahlenraum bis 100, kein Zehnerübertritt"@de.
+n0:x2e
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "2";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition im Zahlenraum bis 20, mit Zehnerübertritt"@de.
+n0:e5d
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "3";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition im Zahlenraum bis 100, mit Zehnerübertritt"@de.
+n0:r2f
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "4";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition im Zahlenraum bis 1000, kein Übertritt"@de.
+n0:c5d
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "5";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion im Zahlenraum bis 100, kein Übertritt"@de.
+n0:t6q
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "6";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion im Zahlenraum bis 20, mit Übertritt"@de.
+n0:v4y
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "7";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion im Zahlenraum bis 100, mit Übertritt"@de.
+n0:g7g
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "8";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion im Zahlenraum bis 1000, mit Übertritt"@de.
+n0:t5s
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "9";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Verdoppeln im Zahlenraum bis 100"@de.
+n0:q7x
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "10";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Halbieren im Zahlenraum bis 100"@de.
+n0:f9x
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "11";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Multiplikation Kernaufgaben"@de.
+n0:h3d
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "12";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Multiplikation Ableitungsaufgaben"@de.
+n0:y5a
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "13";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Division Kernaufgaben"@de.
+n0:p7s
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "14";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Division Ableitungsaufgaben"@de.
+n0:u7d
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "15";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Anzahlerfassung am Hunderterpunktefeld"@de.
+n0:g7y
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "16";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Größenvergleich zwei zweistelliger Zahlen"@de.
+n0:b5v
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "17";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Arithmetische Zahlenfolgen erkennen und fortsetzen"@de.
+n0:c2p
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "18";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Geometrische Musterfolgen erkennen und ergänzen"@de.
+n0:s2g
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "19";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Geometrische Musterfolgen erkennen und fortsetzen"@de.
+n0:y2b
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "20";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Würfelgebäude Anzahlbestimmung Würfel"@de.
+n0:b4h
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "21";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Würfelgebäude Bauplan Zuordnung"@de.
+n0:p5y
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "22";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Achsensymmetrie"@de.
+n0:x4c
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "23";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition Grundvorstellung Hinzufügen"@de.
+n0:t3z
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "24";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition Grundvorstellung Zusammenfassen"@de.
+n0:u2f
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "25";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition Grundvorstellung Vergleichen"@de.
+n0:c4h
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "26";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition Darstellungswechsel: Symbolisch zu Alltagssituationen"@de.
+n0:t3b
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "27";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition Darstellungswechsel: Symbolisch zu abstrakten Darstellungen"@de.
+n0:p7f
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "28";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition Darstellungswechsel: Zahlenstrahl zu symbolisch"@de.
+n0:t7v
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "29";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition operativ strukturierte Päckchen"@de.
+n0:p7z
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "30";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Addition Rechenwege darstellen"@de.
+n0:g4s
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "31";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion Grundvorstellung Abziehen"@de.
+n0:q5b
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "32";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion Grundvorstellung Ergänzen"@de.
+n0:q2t
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "33";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion Darstellungswechsel: Symbolisch abstrakten Darstellungen"@de.
+n0:s5g
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "34";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion Darstellungswechsel: Symbolisch zu Alltagssituationen"@de.
+n0:g6c
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "35";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion operativ strukturierte Päckchen"@de.
+n0:c3q
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "36";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion Rechenwege darstellen"@de.
+n0:z7b
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "37";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Subtraktion Darstellungswechsel: Zahlenstrahl zu symbolisch"@de.
+n0:r3x
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "38";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Stellenwertverständnis: Stellenwerte mit Ziffernkarten"@de.
+n0:d3r
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "39";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Stellenwertverständnis: Mehrsystemblöcke bündeln"@de.
+n0:a7p
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "40";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Zahlverständnis: Orientierung am 100er Zahlenstrahl"@de.
+n0:q7u
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "41";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Zahlverständnis: Zahlen mit Material darstellen"@de.
+n0:z2q
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "42";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Multiplikation Grundvorstellung Räumlich-Simultan"@de.
+n0:a7x
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "43";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Multiplikation Grundvorstellung Zeitlich-Sukzessiv"@de.
+n0:t4g
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "44";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Multiplikation Grundvorstellung Multiplikativer Vergleich"@de.
+n0:a9q
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "45";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Multiplikation am 100er Punktefeld"@de.
+n0:d5u
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "46";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Multiplikation Rechengesetze"@de.
+n0:v4p
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "47";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Multiplikation Darstellungswechsel: Ikonisch zu symbolisch"@de.
+n0:p4h
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "48";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Division Grundvorstellung Aufteilen"@de.
+n0:z5d
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "49";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Division Grundvorstellung Verteilen"@de.
+n0:y6e
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "50";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Division Darstellungswechsel: Ikonisch zu symbolisch"@de.
+n0:e6r
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "51";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Stellenwertverständnis Entbündeln"@de.
+n0:y4y
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "52";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Stellenwertverständnis: Zahlen im Zahlenraum bis 1000 ordnen"@de.
+n0:b7q
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "53";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Stellenwertverständnis: Zahlen nach Vorgabe bilden (Plättchen in der Stellenwerttafel)"@de.
+n0:c4d
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "54";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Stellenwertverständnis: Bündeln"@de.
+n0:p6a
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "55";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Stellenwertverständnis: einen Stellenwert ändern (Plättchen in der Stellenwerttafel)"@de.
+n0:g9c
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "56";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Zahlverständnis: Nachbarzehner"@de.
+n0:p2d
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "57";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Zahlverständnis: Nachbarhunderter"@de.
+n0:b4x
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "58";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Zahlverständnis: Orientierung am 1000er Zahlenstrahl"@de.
+n0:a2t
+	a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "59";
+	skos:topConceptOf n0:;
+	skos:prefLabel "Stellenwertverständnis Darstellungswechsel: symbolisch zu Stellenwerttafel, Mehrsystemblöcken und Stufenschrift"@de.
+n0:
+	a skos:ConceptScheme;
+	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
+	dct:title "BKT und StarS - Mathematik weitere inhaltliche Merkmale: Hierarchie "@de;
+	dc:title "BKT und StarS - Mathematik weitere inhaltliche Merkmale: Hierarchie "@de;
+	dc:description "BKT und StarS - Mathematik weitere inhaltliche Merkmale: Hierarchie "@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
+	skos:hasTopConcept
+		n0:b9t,
+		n0:x2e,
+		n0:e5d,
+		n0:r2f,
+		n0:c5d,
+		n0:t6q,
+		n0:v4y,
+		n0:g7g,
+		n0:t5s,
+		n0:q7x,
+		n0:f9x,
+		n0:h3d,
+		n0:y5a,
+		n0:p7s,
+		n0:u7d,
+		n0:g7y,
+		n0:b5v,
+		n0:c2p,
+		n0:s2g,
+		n0:y2b,
+		n0:b4h,
+		n0:p5y,
+		n0:x4c,
+		n0:t3z,
+		n0:u2f,
+		n0:c4h,
+		n0:t3b,
+		n0:p7f,
+		n0:t7v,
+		n0:p7z,
+		n0:g4s,
+		n0:q5b,
+		n0:q2t,
+		n0:s5g,
+		n0:g6c,
+		n0:c3q,
+		n0:z7b,
+		n0:r3x,
+		n0:d3r,
+		n0:a7p,
+		n0:q7u,
+		n0:z2q,
+		n0:a7x,
+		n0:t4g,
+		n0:a9q,
+		n0:d5u,
+		n0:v4p,
+		n0:p4h,
+		n0:z5d,
+		n0:y6e,
+		n0:e6r,
+		n0:y4y,
+		n0:b7q,
+		n0:c4d,
+		n0:p6a,
+		n0:g9c,
+		n0:p2d,
+		n0:b4x,
+		n0:a2t.
