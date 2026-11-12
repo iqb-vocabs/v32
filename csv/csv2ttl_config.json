@@ -84,7 +84,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Mathematik weitere inhaltliche Merkmale"
+            "value": "Mathematik weitere inhaltliche Merkmale:: Hierarchie"
           }
         ],
         "filenameSource": "mm_Mathematik_Merkmale.csv",
@@ -101,11 +101,11 @@
         "title": [
           {
             "lang": "de",
-            "value": "Mathematik weitere inhaltliche Merkmale: Hierarchie "
+            "value": "Mathematik weitere inhaltliche Merkmale"
           }
         ],
-        "filenameSource": "mm_Mathematik_Merkmale_1.csv",
-        "filenameTarget": "mm_Mathematik_Merkmale_1.ttl",
+        "filenameSource": "m1_Mathematik_Merkmale_1.csv",
+        "filenameTarget": "m1_Mathematik_Merkmale_1.ttl",
         "description": [
           {
             "lang": "de",

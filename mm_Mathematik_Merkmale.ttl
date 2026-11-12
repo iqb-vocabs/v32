@@ -461,9 +461,9 @@ n0:r4z
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "BKT und StarS - Mathematik weitere inhaltliche Merkmale"@de;
-	dc:title "BKT und StarS - Mathematik weitere inhaltliche Merkmale"@de;
-	dc:description "BKT und StarS - Mathematik weitere inhaltliche Merkmale"@de;
+	dct:title "BKT und StarS - Mathematik weitere inhaltliche Merkmale:: Hierarchie"@de;
+	dc:title "BKT und StarS - Mathematik weitere inhaltliche Merkmale:: Hierarchie"@de;
+	dc:description "BKT und StarS - Mathematik weitere inhaltliche Merkmale:: Hierarchie"@de;
 	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:b9e,
