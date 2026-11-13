@@ -27,12 +27,6 @@ n0:t3y
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "4 Antwortmöglichkeiten"@de.
-n0:e5g
-	a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "5 Antwortmöglichkeiten"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -44,5 +38,4 @@ n0:
 		n0:y7c,
 		n0:b6p,
 		n0:y7f,
-		n0:t3y,
-		n0:e5g.
+		n0:t3y.

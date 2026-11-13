@@ -95,23 +95,6 @@
             "value": ""
           }
         ]
-      },
-      {
-        "id": "m1",
-        "title": [
-          {
-            "lang": "de",
-            "value": "Mathematik weitere inhaltliche Merkmale"
-          }
-        ],
-        "filenameSource": "m1_Mathematik_Merkmale_1.csv",
-        "filenameTarget": "m1_Mathematik_Merkmale_1.ttl",
-        "description": [
-          {
-            "lang": "de",
-            "value": ""
-          }
-        ]
       }
     ]
   }

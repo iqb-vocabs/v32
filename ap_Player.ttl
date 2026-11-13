@@ -8,25 +8,19 @@ n0:a2h
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "IQB-Player für StarS 0.x.x"@de.
+	skos:prefLabel "IQB-Player für StarS"@de.
 n0:u3v
 	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "IQB-Player (Speedtest) 3.x.x"@de.
+	skos:prefLabel "IQB-Player (Speedtest)"@de.
 n0:z6d
 	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "IQB-Player (Aspect) 2.x.x"@de.
-n0:t4g
-	a skos:Concept;
-	skos:inScheme n0:;
-	skos:notation "";
-	skos:topConceptOf n0:;
-	skos:prefLabel "IQB-Player (Aspect) 3.x.x"@de.
+	skos:prefLabel "IQB-Player (Aspect)"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
@@ -37,5 +31,4 @@ n0:
 	skos:hasTopConcept
 		n0:a2h,
 		n0:u3v,
-		n0:z6d,
-		n0:t4g.
+		n0:z6d.
